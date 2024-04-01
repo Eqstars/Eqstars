@@ -1,4 +1,9 @@
-### Hi there 👋
+## Introduction
+- YeongNam univercity 3rd grade student
+## Career
+- YeongNam univercity 3rd grade student
+## Links
+- E-mail: gj010527@gamil.com
 
 <!--
 **Eqstars/Eqstars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
