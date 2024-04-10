@@ -1,7 +1,7 @@
 ## Introduction
-- YeongNam univercity 3rd grade student
+- I'm a junior in Yeungnam University.
 ## Career
-- YeongNam univercity 3rd grade student
+- 
 ## Links
 - E-mail: gj010527@gamil.com
 
